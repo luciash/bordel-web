@@ -1,0 +1,22 @@
+{
+  "project": {
+    "route": "/core",
+    "name": "Core",
+    "description": "Initial members of the hackerspace",
+    "github": "",
+    "subpage": ""
+  },
+  "team": {
+     "person": {
+       "name": "Hackatoshi",
+       "role": "Janitor",
+       "bio": "Organic Bio!",
+       "pic": "https://pbs.twimg.com/profile_images/1133402934203551744/2owPMCpV_400x400.jpg",
+       "pic2": "",
+       "github": "https://github.com/paralelnipolis",
+       "twitter": "https://twitter.com/hackatoshi",
+       "linkedin": "",
+       "keybase": ""
+     }
+  }
+}
