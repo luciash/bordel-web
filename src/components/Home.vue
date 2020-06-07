@@ -22,7 +22,12 @@
       <h1> God bless this mess! </h1>
     </div>
     <div class="row space">
+
       <div class="twelve columns cta">
+        <div class="six offset-by-three columns">
+          <h2> Are you a fan? </h2>
+        </div>
+
         <router-link to="/join">
           <button class="button-primary cta-btn"> Become a member </button>
         </router-link>
@@ -61,7 +66,17 @@ export default {
 
   .cta {
     vertical-align: middle;
-    margin-top: 225px;
+    margin-top: 150px;
+  }
+
+  .cta h2 {
+    background: black;
+    text-align: center;
+    color: #00FF00;
+    padding: 10px;
+    margin-bottom: 80px;
+    transform: rotate(-3deg);
+    border: dotted 1px #00FF00;
   }
 
   .cta-btn {
