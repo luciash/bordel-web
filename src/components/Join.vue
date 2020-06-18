@@ -8,7 +8,7 @@
 <!--      </p>-->
 
       <p>
-        The members of the Bordel space will get access to the room and all of the tooling during opening hours of Paralelni Polis (weekdays 8am - 8pm) or whenever there are people with keys in the building.
+        Members of the Bordel space will get access to the room and all of the tooling during opening hours of Paralelni Polis (weekdays 8am - 8pm) or whenever there are people with keys in the building.
         Additionally, members will get access to selected events happening in Paralelni Polis.
       </p>
       </div>
@@ -21,7 +21,7 @@
         <!--        [CZ] Cena členství je 500 Kč měsíčně.-->
         <!--      </p>-->
         <p>
-          Membership fee is <b>500 czk</b> each month.
+          Membership fee is <b>500 czk</b> monthly.
         </p>
       </div>
       <div class="six columns">
@@ -39,11 +39,12 @@
     <div class="row">
       <h1> Rules </h1>
       <ol>
-        <li> Respect privacy of other people </li>
-        <li> Clean the mess before you leave </li>
-        <li> Leave your project in you box when you are not working on it </li>
+        <li> Respect privacy of others </li>
+        <li> Clean the mess before you leave. </li>
+        <li> Keep your project in you box when you are not working on it </li>
         <li> Last person locks the door </li>
         <li> Don't mess with projects of other people before talking to them </li>
+        <li> Fuck the rules! </li>
       </ol>
     </div>
   </div>

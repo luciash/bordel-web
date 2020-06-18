@@ -4,7 +4,7 @@
       <div class="twelve columns">
         <h2> Get in touch </h2>
         <p> Don't hesitate to reach out anytime <a href="mailto:bordel@paralelnipolis.cz>"> bordel@paralelnipolis.cz </a></p>
-        <p> Come to visit us! Every working day between 9am - 6pm</p>
+        <p> Or just drop us a line and visit us!</p>
       </div>
     </div>
     <br/>

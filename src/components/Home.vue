@@ -10,11 +10,12 @@
 
 <!--      </p>-->
       <p>
-        Bordel is a small community run hackerspace in a basement of the Paralelní Polis building.
-        It's room with modular setup suitable for work or organizing smaller workshops. There is a bunch of hw, tools, soldering gear, a workbench and some music/noise instruments available for the members.
+        Bordel is a <b> small hackerspace </b> located in the basement of the Prague Paralelní Polis, it is operated by the community of its members.
+        Basically, It's room with a modular setup suitable for work, hacking or organizing smaller workshops.
+        There is a bunch of <b> hw, tools, 3d printers, soldering gear, a workbench </b>and some music/noise instruments available for use.
 
-        The space is a non-profit initiative whose existence depends on community contributions and the courtesy of Paralelni Polis.
-        Bordel space is also the spot where a lot of the projects in Polis began their existence and we hope to keep on this trend by engaging fellow technologists.
+        <b> The space doesn't have an ideological affiliation </b> and the topics of ad hoc events will largely be influenced by the users/members.
+        We are a <b> non-profit initiative </b> whose existence depends on community contributions and the courtesy of Paralelni Polis.
       </p>
     </div>
 
@@ -80,7 +81,8 @@ export default {
   }
 
   .cta-btn {
-    height: 50px;
-    width: 250px;
+    height: 100px;
+    width: 350px;
+    font-size: 28px;
   }
 </style>
