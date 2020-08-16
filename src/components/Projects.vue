@@ -2,6 +2,7 @@
   <div class="Team">
     <div class="row">
       <h1> {{ project.name }} </h1>
+      <a v-if="project.github !== ''" :href="project.github" class="soc-logo"> <img src="../assets/gh.png"> </a>
       <p> {{ project.description }}</p>
     </div>
     <div v-for="i in team" class="row profile" v-bind:key="i">
