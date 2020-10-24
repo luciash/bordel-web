@@ -1,0 +1,33 @@
+{
+  "project": {
+    "route": "/bleskomat",
+    "name": "Bleskomat",
+    "description": "The world's simplest Lightning Network ATM",
+    "github": "https://github.com/samotari/bleskomat",
+    "subpage": ""
+  },
+  "team": {
+     "person": {
+       "name": "Charles Hill (\"chill\")",
+       "role": "Hacker, Co-Founder and Co-Creator of Bleskomat",
+       "bio": "",
+       "pic": "https://degreesofzero.com/images/chill-desert.png",
+       "pic2": "",
+       "github": "https://github.com/chill117",
+       "twitter": "",
+       "linkedin": "",
+       "keybase": ""
+     },
+     "person2": {
+       "name": "Carlos García Ortiz",
+       "role": "Developer, Co-Founder and Co-Creator of Bleskomat",
+       "bio": "",
+       "pic": "https://avatars2.githubusercontent.com/u/5362163?s=400&u=b898787f526eb3bd4281d3fcd71c6cbaafdce342&v=4",
+       "pic2": "",
+       "github": "https://github.com/karliatto",
+       "twitter": "",
+       "linkedin": "",
+       "keybase": ""
+     }
+  }
+}
